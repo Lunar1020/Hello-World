@@ -1,5 +1,7 @@
-# hello world
-q(≧▽≦q) 우와앙
+# Hello World
+q(≧▽≦q) 우와앙 안녕하세요👋, 멍청이예요!
+
+q(≧▽≦q) wow hello👋, I'm stupid!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunar1020&&show_icons=true&theme=tokyonight)
 
